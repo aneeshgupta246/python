@@ -1,6 +1,19 @@
-python installation from this link: https://phoenixnap.com/kb/how-to-install-python-3-windows
-here i installed latest python version 3.13.2
-then checked it with terminal 
-installed pip
-installed virtual environment
-updated latest pip
+# First verify if Python & Pip already installed
+python3 --version
+pip3 --version
+
+# Install Python in windows
+https://docs.python-guide.org/starting/install3/win/
+
+# Install Python in Linux
+https://docs.python-guide.org/starting/install3/linux/
+
+# Install Python in Mac
+https://docs.python-guide.org/starting/install3/osx/
+
+
+# If facing any diffculties then simply use Online IDE
+
+# Download PyCharm
+
+https://www.jetbrains.com/pycharm/download/#section=windows
