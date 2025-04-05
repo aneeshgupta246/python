@@ -1,1 +1,44 @@
+# first python program
+a=10
+b=9.2
+c='shashank'
+d= True
+
+print(" value of a,b,c,d : ", a,b,c,d)
+
+# ====== type(a)
+
+print("data type of a is :",type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+
+# along with IDE's you can also print or perform these locally in notepad and then pass it in command prompt as python is already installed in you machine
+#first write the same command in you notepad and save the file with .py extension
+#second open the location of your saved file in command prompt
+#the command will be executed
+
+# how to convert one data type to another one or type casting
+
+var1= 123
+var2 ="123"
+
+print("value of a var1 is =",var1)
+print("value of a var2 is =",var2)
+
+print("data type value of a var1 is =",type(var1))
+print("data type value of a var2 is =",type(var2))
+
+var3=int(var2)
+print("data type value of a var3 is =",type(var3))
+print("value of a var3 is =",var3+10)
+
+var4=85.55
+var5=int(var4)
+print("value of a var4 is =",var4)
+print("value of a var5 is =",var5)
+
+
+
+
 
